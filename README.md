@@ -19,3 +19,16 @@ CSS
 BootStrap
 
 SQLAlchemy
+
+## How to use:
+
+Install all the requirements
+
+```
+pip install -r requirements.txt
+```
+
+Run the file from the main directory using:
+ ```
+ python run.py
+ ```
