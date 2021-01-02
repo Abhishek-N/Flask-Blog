@@ -20,7 +20,7 @@ BootStrap
 
 SQLAlchemy
 
-## How to use:
+## How to run:
 
 Install all the requirements
 
